@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @deep-sagar
-- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently pursuing B.Tech. CSE in Cyber Security
 
 
